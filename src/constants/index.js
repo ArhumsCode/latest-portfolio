@@ -57,7 +57,7 @@ export const myProjects = [
     desc: 'In this project, I used Google Colab and the hugging face libraries to help me obtain the dataset and create the model through the process of transfer learning from the distilbert-base-uncased model. Also utilized pytorch for predicting on test samples and gradio was used to build the application.',
     subdesc:
       'Built as my first end-to-end Machine Learning project.',
-    href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
+    href: 'https://github.com/ArhumsCode/Foodify-ML-Model',
     texture: '/textures/project/projectFood.mp4',
     logo: '/assets/foodLogo.png',
     logoStyle: {
@@ -94,7 +94,7 @@ export const myProjects = [
     desc: 'Ayahly is a powerful fullstack Islamic based application that allows for you to find ayahs from Quran based on keywords and gives you a list of your top five reccomendations based on keywords in your searches. Also keeps track of your most recently liked Ayahs using Appwrite database.',
     subdesc:
       'With Ayahly, users can receive reccomendations tailored to their liking and keep their favourite ayahs saved on the platform.',
-    href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+    href: 'https://github.com/ArhumsCode/Ayahly',
     texture: '/textures/project/ayahly.mp4',
     logo: '/assets/books.png',
     logoStyle: {
@@ -131,7 +131,7 @@ export const myProjects = [
     desc: 'Created a DFS and BFS maze searching algorithm to illustrate how these computer science concepts are used in a practical scenario primarily using ReactJS and TailwindCSS',
     subdesc:
       '',
-    href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
+    href: 'https://github.com/ArhumsCode/dfs-bfs-maze-search',
     texture: '/textures/project/mazeSearch.mp4',
     logo: '/assets/maze.png',
     logoStyle: {
